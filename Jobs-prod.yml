@@ -1,1 +1,11 @@
+build:
+  version: "1.0"
 
+company:
+  message: "Welcome to EazyBank Jobs Service - Production Environment"
+  contactDetails:
+    name: "Niyaz Asghar - Product Owner"
+    email: "bob.johnson@eazybank.com"
+  onCallSupport:
+    - "(555) 555-3333"
+    - "(555) 555-4444"
