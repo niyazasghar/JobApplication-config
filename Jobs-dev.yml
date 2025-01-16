@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-company:
+jobs:
   message: "Welcome to Niyaz Jobs Service - Development Environment"
   contactDetails:
     name: "Niyaz Asghar - Developer"
