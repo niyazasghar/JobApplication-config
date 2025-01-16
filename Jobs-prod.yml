@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-company:
+jobs:
   message: "Welcome to EazyBank Jobs Service - Production Environment"
   contactDetails:
     name: "Niyaz Asghar - Product Owner"
